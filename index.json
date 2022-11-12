@@ -34,12 +34,15 @@
             "position": "Embedded Software Engineer",
             "url": "https://en.thirdpin.io/",
             "startDate": "2014",
-            "summary": "Have been finished more than 20 commercial projects in embedded area including IoT, safety systems, shipbuilding.",
+            "summary": "Have been finished more than 20 commercial projects in embedded area including IoT.",
             "highlights": [
-                "Pastilda: hardware password manager (STM32, ARM, Crypto Peripheral, SDIO, FatFS, FreeRTOS)",
-                "Some control system (ARM, STM32, USB HID, FreeRTOS)",
-                "MTUTA: Telemetry of vending machines (ARM, FreeRTOS, USB, SD, SIMCom, GSM, Ethernet, FTP)",
-                "Information Display (Linux, Custom board, U-Boot, Qt libraries)"
+                "Pastilda - hardware password manager: STM32, ARM, Crypto Peripheral, SDIO, FatFS, FreeRTOS",
+                "MTUTA - Telemetry of vending machines: ARM, FreeRTOS, USB, SD, SIMCom, GSM, Ethernet, FTP",
+                "Audio recorder: ADC sampling, A-law coding, WAVE audio container, SD card writing.",
+                "USB device monitoring and configuration: HID, CDC-ACM, Mass Storage, composite device.",
+                "Distributed steering-actuator RT system: ADC sampling, position measure, human gesture system, CAN, CANopen, PWM.",
+                "Low latency protection system: FPGA, malfunction supervision.",
+                "Graphical information display: Embedded Linux, custom board, U-Boot, Qt libraries."
             ]
         }
     ],
