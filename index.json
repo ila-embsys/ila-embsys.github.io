@@ -41,6 +41,8 @@
                 "Audio recorder: ADC sampling, A-law coding, WAVE audio container, SD card writing.",
                 "USB device monitoring and configuration: HID, CDC-ACM, Mass Storage, composite device.",
                 "Distributed steering-actuator RT system: ADC sampling, position measure, human gesture system, CAN, CANopen, PWM.",
+                "Gate valve controller: Zephyr RTOS, Modbus, M6800 bus driver, character display driver, UI",
+                "GPS tracker for a training: Nordic, USB, HID, Mass storage",
                 "Low latency protection system: FPGA, malfunction supervision.",
                 "Graphical information display: Embedded Linux, custom board, U-Boot, Qt libraries."
             ]
